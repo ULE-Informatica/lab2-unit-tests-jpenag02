@@ -1,6 +1,6 @@
 // tests.cpp
 #include "exampleFunction.cpp"
-#include <limits.h>
+#include <climits>
 #include <gtest/gtest.h>
  
 
