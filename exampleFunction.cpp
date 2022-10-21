@@ -1,7 +1,7 @@
-#include <math.h>
-#include <limits.h>
-#include <stdio.h>
-#include <stdint.h> 
+#include <cmath>
+#include <climits>
+#include <cstdio>
+#include <cstdint> 
 
 unsigned int wrapFunctionAdd(unsigned int ui_a, unsigned int ui_b) {
   unsigned int usum = ui_a + ui_b;
